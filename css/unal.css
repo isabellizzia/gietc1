@@ -96,8 +96,8 @@ body {
 	left: 13%;
 	top: 490px;
 
-	border: 2px solid #a8dadc; /*anchura, estilo y color borde*/
-	background-color: #a8dadc; /*color botón*/
+	border: 2px solid #457b9d; /*anchura, estilo y color borde*/
+	background-color: #457b9d; /*color botón*/
 	border-width: 3px;
 	border-style: solid;
 	border-radius:50px;
@@ -374,6 +374,8 @@ div.main-text{
 
 }
 /* end principal page */
+
+
 
 h1, h2, h3, h4, h5, h6 {
 	font-family: "Ancizar serif", "MS Serif", "New York", serif

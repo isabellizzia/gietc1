@@ -488,15 +488,35 @@ main.home {
     width: auto;
     text-align: center
 }
-
 .contraste-1 {
-    background-color: red
+    background-color: #ffb703;
 }
-
+.contraste-1 main div.main-title, .contraste-1 main div.main-subtitle, .contraste-1 main div.main-text, .contraste-1 main div.contenedor1 a, .contraste-1 main div.contenedor1 div.boton-grupo-texto, .contraste-1 main div.contenedor3 h2, .contraste-1 main div.contenedor3 h3, .contraste-1 main div.contenedor3 p{
+    color: #000000;
+}
+.contraste-1 main div.contenedor1-grupo, .contraste-1 main div.contenedor1-proyectos, .contraste-1 main div.contenedor1-asociacion{
+    background-color: #fb8500;
+}
+/* Para cambiar el color de los iconos de imagenes */
+/* .contraste-1 main div.contenedor1-grupo div.boton-grupo-img i {
+    color: #6a040f;
+} */
 .contraste-2 {
-    background-color: green
+    background-color: rgb(0, 0, 0)
+}
+.contraste-2 main div.main-title, .contraste-2 main div.main-subtitle, .contraste-2 main div.main-text, .contraste-2 main div.contenedor1 a, .contraste-2 main div.contenedor1 div.boton-grupo-texto, .contraste-2 main div.contenedor3 h2, .contraste-2 main div.contenedor3 h3, .contraste-2 main div.contenedor3 p{
+    color: #ffffff;
+}
+.contraste-2 main div.contenedor1-grupo, .contraste-2 main div.contenedor1-proyectos, .contraste-2 main div.contenedor1-asociacion, .contraste-2 main .contenedor1 .boton-contacto {
+    background-color: #2741c5;
 }
 
 .contraste-3 {
-    background-color: blue
+    background-color: #ec015f;
+}
+.contraste-3 main div.main-title, .contraste-3 main div.main-subtitle, .contraste-3 main div.main-text, .contraste-3 main div.contenedor1 a, .contraste-3 main div.contenedor1 div.boton-grupo-texto, .contraste-3 main div.contenedor3 h2, .contraste-3 main div.contenedor3 h3, .contraste-3 main div.contenedor3 p{
+    color: #ffffff;
+}
+.contraste-3 main div.contenedor1-grupo, .contraste-3 main div.contenedor1-proyectos, .contraste-3 main div.contenedor1-asociacion, .contraste-3 main .contenedor1 .boton-contacto {
+    background-color: #46013d;
 }
