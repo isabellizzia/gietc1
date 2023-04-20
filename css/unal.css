@@ -278,7 +278,7 @@ body {
 }
 .contenedor3 .contentBox .serviceBox h2{
 	font-size: 1.1em;
-	margin-top: 20px;
+	margin-top: 10%;
 	margin-bottom: 10px;
 	font-weight: 600;
 	color: var(--hover-color);
