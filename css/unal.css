@@ -418,6 +418,9 @@ color: #000000;
 
 a {
 	color: #94b43b;
+}
+
+.contenedor1 a {
 	display: flex;
 }
 
@@ -543,7 +546,7 @@ ul.dropdown-menu a:focus {
 }
 
 #unalTop .logo {
-	-webkit-transition: width .5s; -moz-transition: width .5s; -o-transition: width .5s; transition: width .5s; background: no-repeat url(../images/sealBck.png); float: left; height: 135px; width: 234px; margin-left: 10px; position: absolute; text-align: center; z-index: 1;
+	-webkit-transition: width .5s; -moz-transition: width .5s; -o-transition: width .5s; transition: width .5s; background: no-repeat url(../images/sealBck.png); float: left; height: 135px; width: 234px; margin-left: 10px;position: absolute; text-align: center; z-index: 1; 
 }
 
 #unalTop .logo img,
